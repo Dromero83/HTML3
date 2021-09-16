@@ -16,12 +16,15 @@ body{
 header {
     width: 100%;
     height: 150px;
+    padding: 20px;
 
 }
 nav{
     width: 250px;
     height: 550px;
     float: left;
+    color: white;
+    padding-top: 20px;
 }
 article {
     width: 770px;
@@ -35,7 +38,7 @@ footer{
     clear: both;
 }
 h1 {
-  font-family: 'Sigmar One', cursive;
+  font-family: 'Lobster', cursive;
   text-align: center;
   color: white;
 }
